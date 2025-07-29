@@ -50,6 +50,7 @@ body {
     .buttons .equal {
       background-color: #2ed573;
       color: white;
+      width:128px
     }
 
     .buttons .equal:hover {
